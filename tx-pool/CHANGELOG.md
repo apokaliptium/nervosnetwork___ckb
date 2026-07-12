@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.3](https://github.com/nervosnetwork/ckb/compare/ckb-tx-pool-v1.2.2...ckb-tx-pool-v1.2.3) - 2026-07-12
+
+### Changed
+
+- avoid stored renotify permits in verify queue (#5249) (by @chenyukang)
+- *(tx-pool)* simplify verify queue priority index (#5238) (by @chenyukang)
+- reduce remote reject log amplification (#5250) (by @chenyukang)
+
+### Fixed
+
+- Fix some public security issues (#5219) (by @Officeyutong)
+- *(relay)* fail fast on tx-pool backpressure (#5239) (by @chenyukang)
+- Notify relayer when remote tx enqueue fails on full verify queue (#5235) (by @Officeyutong)
+- Respect tx-pool suspend commands before popping verify tasks (#5237) (by @Officeyutong)
+
+### Contributors
+
+- @Officeyutong
+- @chenyukang
+
 ## [1.2.2](https://github.com/nervosnetwork/ckb/compare/ckb-tx-pool-v1.2.1...ckb-tx-pool-v1.2.2) - 2026-06-08
 
 ### Changed

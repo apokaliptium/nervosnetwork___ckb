@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.3](https://github.com/nervosnetwork/ckb/compare/ckb-constant-v1.1.2...ckb-constant-v1.1.3) - 2026-07-12
+
+### Changed
+
+- update default valid target
+
 ## [1.1.2](https://github.com/nervosnetwork/ckb/compare/ckb-constant-v1.1.1...ckb-constant-v1.1.2) - 2026-06-08
 
 ### Changed

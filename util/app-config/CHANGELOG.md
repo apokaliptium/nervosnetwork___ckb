@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.3](https://github.com/nervosnetwork/ckb/compare/ckb-app-config-v1.2.2...ckb-app-config-v1.2.3) - 2026-07-12
+
+### Changed
+
+- depedencies updated in the workspace root Cargo.toml
+
 ## [1.2.2](https://github.com/nervosnetwork/ckb/compare/ckb-app-config-v1.2.1...ckb-app-config-v1.2.2) - 2026-06-08
 
 ### Changed
